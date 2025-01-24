@@ -12,7 +12,7 @@ A Retrieval-Augmented Generation (RAG) system for handling price-specific produc
    ```bash
    pip install -r requirements.txt
    ```
-2. **API Key**: Add your OpenAI API key to `.env`:
+2. **API Key**: Add your Google API key to `.env`:
    ```
    GOOGLE_API_KEY=your_google_api_key
    ```
