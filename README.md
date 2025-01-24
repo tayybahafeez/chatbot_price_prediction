@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) system for handling price-specific produc
    ```
 2. **API Key**: Add your OpenAI API key to `.env`:
    ```
-   OPENAI_API_KEY=your_openai_api_key
+   GOOGLE_API_KEY=your_google_api_key
    ```
 
 ## Usage
