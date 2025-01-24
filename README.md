@@ -1,5 +1,4 @@
-# README: RAG Price Query System
-
+# README: Chatbot for price prediction
 ## Overview
 A Retrieval-Augmented Generation (RAG) system for handling price-specific product queries using Gemini API and LlamaIndex.
 
