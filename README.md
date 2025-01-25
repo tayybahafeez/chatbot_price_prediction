@@ -1,4 +1,4 @@
-# README: Chatbot for Price Prediction
+# Chatbot for Price Prediction
 
 ## Overview
 A Retrieval-Augmented Generation (RAG) system for handling price-specific product queries using Gemini API and LlamaIndex.
@@ -16,17 +16,10 @@ A Retrieval-Augmented Generation (RAG) system for handling price-specific produc
    ```bash
    pip install -r requirements.txt
    ```
-<<<<<<< HEAD
 
 3. **API Key**: Add your Google API key to `.env`:
    ```
    Google_API_KEY=your_google_api_key
-=======
-2. **API Key**: Add your Google API key to `.env`:
-   ```
-   GOOGLE_API_KEY=your_google_api_key
->>>>>>> 6e3f3a0a8281f06b265f01014a8a9b2b586e80a0
-   ```
 
 ## Usage
 **Run Application**:
